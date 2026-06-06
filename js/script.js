@@ -14,7 +14,7 @@ setInterval(function () {
 
 
 ; (function () {
-    var msg = 'Company name';
+    var msg = 'Bootleg';
     var size = 24;
     var circleY = 1; var circleX = 1;
     var letter_spacing = 4;
